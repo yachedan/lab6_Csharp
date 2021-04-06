@@ -29,6 +29,17 @@
             "stopAtEntry": false
         },
         {
+            "name": "Task3",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build_task3",
+            "program": "${workspaceFolder}/task3/bin/Debug/net5.0/task3.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/task3",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach",

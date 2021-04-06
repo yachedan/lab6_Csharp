@@ -1,0 +1,16 @@
+D:\Homework_2\Csharp\lab6\task3\bin\Debug\net5.0\task3.exe
+D:\Homework_2\Csharp\lab6\task3\bin\Debug\net5.0\task3.deps.json
+D:\Homework_2\Csharp\lab6\task3\bin\Debug\net5.0\task3.runtimeconfig.json
+D:\Homework_2\Csharp\lab6\task3\bin\Debug\net5.0\task3.runtimeconfig.dev.json
+D:\Homework_2\Csharp\lab6\task3\bin\Debug\net5.0\task3.dll
+D:\Homework_2\Csharp\lab6\task3\bin\Debug\net5.0\ref\task3.dll
+D:\Homework_2\Csharp\lab6\task3\bin\Debug\net5.0\task3.pdb
+D:\Homework_2\Csharp\lab6\task3\obj\Debug\net5.0\task3.csprojAssemblyReference.cache
+D:\Homework_2\Csharp\lab6\task3\obj\Debug\net5.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework_2\Csharp\lab6\task3\obj\Debug\net5.0\task3.AssemblyInfoInputs.cache
+D:\Homework_2\Csharp\lab6\task3\obj\Debug\net5.0\task3.AssemblyInfo.cs
+D:\Homework_2\Csharp\lab6\task3\obj\Debug\net5.0\task3.csproj.CoreCompileInputs.cache
+D:\Homework_2\Csharp\lab6\task3\obj\Debug\net5.0\task3.dll
+D:\Homework_2\Csharp\lab6\task3\obj\Debug\net5.0\ref\task3.dll
+D:\Homework_2\Csharp\lab6\task3\obj\Debug\net5.0\task3.pdb
+D:\Homework_2\Csharp\lab6\task3\obj\Debug\net5.0\task3.genruntimeconfig.cache

@@ -1,6 +1,6 @@
 using System;
 
-namespace task2
+namespace task3
 {
     class VectorDecimal
     {
